@@ -5,3 +5,4 @@ Update from GIT remote repo
   updated line from local repo
   Updated line from git repo
 enterewerwfjdfsnlj
+SOme lines are updeted in git repo directly and committed
