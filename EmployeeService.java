@@ -8,3 +8,4 @@ enterewerwfjdfsnlj
 Updating from VSCode 
 SOme lines are updeted in git repo directly and committed
 Checking git fetch & merge from VSCode
+  Updated the line to check git fetch & merge
