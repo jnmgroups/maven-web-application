@@ -6,3 +6,4 @@ Update from GIT remote repo
   Updated line from git repo
 enterewerwfjdfsnlj
 Updating from VSCode 
+SOme lines are updeted in git repo directly and committed
