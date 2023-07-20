@@ -7,3 +7,4 @@ Update from GIT remote repo
 enterewerwfjdfsnlj
 Updating from VSCode 
 SOme lines are updeted in git repo directly and committed
+Checking git fetch & merge from VSCode
